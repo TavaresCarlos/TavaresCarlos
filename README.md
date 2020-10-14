@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
 
 ### About me
-I'm a {backend, frontend and GIS} developer at [@GENTE](https://https://www.genteufv.com.br/home/).
+I'm a {backend, frontend and GIS} developer at [@GENTE](https://www.genteufv.com.br/home/).
