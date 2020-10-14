@@ -6,5 +6,5 @@
 ### About me
 I'm a {backend, frontend and GIS} developer at [@GENTE](https://www.genteufv.com.br/home/).
 
-- [Courses]() 👨🏼‍🏫 - I'm about to graduate in computer science at the Federal University of Viçosa (Brazil).
+- [Courses] 👨🏼‍🏫 - I'm about to graduate in computer science at the Federal University of Viçosa (Brazil).
 
