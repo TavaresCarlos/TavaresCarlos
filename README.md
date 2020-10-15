@@ -9,5 +9,6 @@ I'm a {backend, frontend and GIS} developer at [@GENTE](https://www.genteufv.com
 - Education 👨🏼‍🏫 - I'm about to graduate in computer science at the Federal University of Viçosa (Brazil).
 - [Blog](https://www.genteufv.com.br/blog/) ✍🏼 - I'm write about the WebGENTE.
 - [Researchgate](https://www.researchgate.net/profile/Carlos_Henrique_Brumatti/publications) :mortar_board:
+-Email :envelope:
 
 
