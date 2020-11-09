@@ -10,4 +10,4 @@
 I'm a {backend, frontend and GIS} developer at [@GENTE](https://www.genteufv.com.br/home/).
 
 - Education 👨🏼‍🏫 - I'm about to graduate in computer science at the Federal University of Viçosa (Brazil).
-- Email :
+- Email :enveloper- carlos.h.tavares@ufv.br
