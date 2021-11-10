@@ -5,12 +5,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name" : "Carlos Henrique Tavares Brumatti"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.1015625,
-          19.31114335506464
+          -42.8769324,
+          -20.7552899
         ]
       }
     }
