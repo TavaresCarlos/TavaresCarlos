@@ -6,7 +6,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name" : "Carlos Henrique Tavares Brumatti"
+        "nome" : "Carlos Henrique Tavares Brumatti",
+        "curso" : "Mestrado em Ciência da Computação",
+        "universidade" : "Universidade Federal de Viçosa - UFV"
       },
       "geometry": {
         "type": "Point",
