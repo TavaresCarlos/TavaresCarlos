@@ -6,10 +6,10 @@
     {
       "type": "Feature",
       "properties": {
-        "nome" : "Carlos Henrique Tavares Brumatti",
-        "curso" : "Mestrado em Ciência da Computação",
-        "universidade" : "Universidade Federal de Viçosa - UFV",
-        "cidade" : "Viçosa - MG"
+        "name" : "Carlos Henrique Tavares Brumatti",
+        "course" : "MSc student in Computer Science",
+        "university" : "Federal University of Viçosa - UFV",
+        "city" : "Viçosa - MG"
       },
       "geometry": {
         "type": "Point",
