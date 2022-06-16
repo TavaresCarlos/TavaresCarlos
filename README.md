@@ -9,7 +9,9 @@
         "name" : "Carlos Henrique Tavares Brumatti",
         "course" : "MSc student in Computer Science",
         "university" : "Federal University of Viçosa - UFV",
-        "city" : "Viçosa - MG"
+        "city" : "Viçosa - MG",
+        "work" : "Grupo Zago",
+        "job" : "Full-Stack Engineer"
       },
       "geometry": {
         "type": "Point",
