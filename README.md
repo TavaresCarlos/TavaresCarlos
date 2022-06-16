@@ -12,12 +12,23 @@
         "city" : "Viçosa - MG",
         "work" : "Grupo Zago",
         "job" : "Full-Stack Engineer"
-      },
+       },
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          -42.875502705574036,
+          -20.755767752884964
+         ]
+       }
+     },
+     {
+      "type": "Feature",
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.875502705574036,
-          -20.755767752884964
+          -40.628018081188195,
+          -19.53795675500015
         ]
       }
     }
