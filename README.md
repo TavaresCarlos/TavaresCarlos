@@ -10,6 +10,7 @@
         "course" : "MSc student in Computer Science",
         "university" : "Federal University of Viçosa - UFV",
         "city" : "Viçosa - MG",
+        "area" : "Full-Stack GIS Developer",
         "work" : "Grupo Zago",
         "job" : "Full-Stack Engineer"
        },
