@@ -12,7 +12,7 @@
         "city" : "Viçosa - MG",
         "area" : "Full-Stack GIS Developer",
         "work" : "Grupo Zago",
-        "job" : "Full-Stack Engineer"
+        "job" : "Developerr"
        },
        "geometry": {
          "type": "Point",
@@ -21,18 +21,7 @@
           -20.755767752884964
          ]
        }
-     },
-     {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.628018081188195,
-          -19.53795675500015
-        ]
-      }
-    }
+     }
   ]
 }
 ````
