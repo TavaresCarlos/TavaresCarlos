@@ -7,12 +7,12 @@
       "type": "Feature",
       "properties": {
         "name" : "Carlos Henrique Tavares Brumatti",
-        "course" : "MSc student in Computer Science",
+        "course" : "Ph.D student in Computer Science",
         "university" : "Federal University of Viçosa - UFV",
         "city" : "Viçosa - MG",
         "area" : "Full-Stack GIS Developer",
         "work" : "Grupo Zago",
-        "job" : "Developerr"
+        "job" : "Developer"
        },
        "geometry": {
          "type": "Point",
