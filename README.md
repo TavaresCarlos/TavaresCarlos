@@ -11,7 +11,7 @@
         "university" : "Federal University of Viçosa - UFV",
         "city" : "Viçosa - MG",
         "area" : "Full-Stack GIS Developer",
-        "work" : "Grupo Zago",
+        "work" : "",
         "job" : "Developer"
        },
        "geometry": {
