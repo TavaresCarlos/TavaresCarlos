@@ -10,15 +10,15 @@
         "course" : "Ph.D student in Computer Science",
         "university" : "Federal University of Viçosa - UFV",
         "city" : "Viçosa - MG",
-        "area" : "Full-Stack GIS Developer",
+        "area" : "Software Engineering",
         "work" : "",
-        "job" : "Developer"
+        "job" : "Full-Stack Developer"
        },
        "geometry": {
          "type": "Point",
          "coordinates": [
-          -42.875502705574036,
-          -20.755767752884964
+          xx,
+          xx
          ]
        }
      }
